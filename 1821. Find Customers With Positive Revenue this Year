@@ -1,0 +1,5 @@
+###solution
+
+select customer_id
+from Customer
+where year = 2021 and revenue>0
